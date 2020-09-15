@@ -1,1 +1,9 @@
+lang: en-US
+title: Kate of the Cats
+
+
 remote_theme: mmistakes/jekyll-theme-basically-basic
+
+
+search: true
+search_full_content: true
