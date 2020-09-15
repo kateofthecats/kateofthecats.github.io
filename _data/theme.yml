@@ -28,6 +28,7 @@ t:
 google_fonts:
   - name: "Architects Daughter"
     weights: "400,400i,600,600i"
+  - name: "Architects Daughter Condensed"
 
 # Link to specific internal pages in the navigation.
 # Create a custom list to override the default setting of including links to all
