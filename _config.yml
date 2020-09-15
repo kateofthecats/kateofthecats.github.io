@@ -7,3 +7,5 @@ remote_theme: mmistakes/jekyll-theme-basically-basic
 
 search: true
 search_full_content: true
+
+copyright: "Copyright Kate of the Cats"
