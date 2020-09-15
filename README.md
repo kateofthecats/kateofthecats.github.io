@@ -1,11 +1,6 @@
----
-layout: home
-title: Kate of the Cats
----
-
 ## Welcome to GitHub Pages
 
-image: /assets/splash-pic.jpg
+
 
 You can use the [editor on GitHub](https://github.com/kateofthecats/kateofthecats.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
